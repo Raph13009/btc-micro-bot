@@ -1,0 +1,102 @@
+[
+  {
+    "timestamp": "2025-04-06T15:15:30.686842",
+    "btc_amount": 1.2e-05,
+    "buy_price": 82771.4
+  },
+  {
+    "timestamp": "2025-04-06T15:20:32.225297",
+    "btc_amount": 1.2e-05,
+    "buy_price": 82620.6
+  },
+  {
+    "timestamp": "2025-04-06T15:40:35.735552",
+    "btc_amount": 1.2e-05,
+    "buy_price": 82489.2
+  },
+  {
+    "timestamp": "2025-04-06T16:22:09.571983",
+    "btc_amount": 1.2e-05,
+    "buy_price": 82400.1
+  },
+  {
+    "timestamp": "2025-04-06T16:57:17.027371",
+    "btc_amount": 1.2e-05,
+    "buy_price": 82548.1
+  },
+  {
+    "timestamp": "2025-04-06T17:07:18.485404",
+    "btc_amount": 1.2e-05,
+    "buy_price": 82663.0
+  },
+  {
+    "timestamp": "2025-04-06T17:12:19.392409",
+    "btc_amount": 1.2e-05,
+    "buy_price": 82430.3
+  },
+  {
+    "timestamp": "2025-04-06T17:22:21.532811",
+    "btc_amount": 1.2e-05,
+    "buy_price": 82490.7
+  },
+  {
+    "timestamp": "2025-04-06T17:27:22.491952",
+    "btc_amount": 1.2e-05,
+    "buy_price": 82521.2
+  },
+  {
+    "timestamp": "2025-04-06T17:53:31.645615",
+    "btc_amount": 1.2e-05,
+    "buy_price": 82573.1
+  },
+  {
+    "timestamp": "2025-04-06T17:54:32.462291",
+    "btc_amount": 1.2e-05,
+    "buy_price": 82627.5
+  },
+  {
+    "timestamp": "2025-04-06T17:58:35.785338",
+    "btc_amount": 1.2e-05,
+    "buy_price": 82576.2
+  },
+  {
+    "timestamp": "2025-04-06T17:59:36.592448",
+    "btc_amount": 1.2e-05,
+    "buy_price": 82565.8
+  },
+  {
+    "timestamp": "2025-04-06T18:03:39.282384",
+    "btc_amount": 1.2e-05,
+    "buy_price": 82443.3
+  },
+  {
+    "timestamp": "2025-04-06T18:04:40.166790",
+    "btc_amount": 1.2e-05,
+    "buy_price": 82453.5
+  },
+  {
+    "timestamp": "2025-04-06T18:10:44.960010",
+    "btc_amount": 1.2e-05,
+    "buy_price": 82428.2
+  },
+  {
+    "timestamp": "2025-04-06T18:11:45.760250",
+    "btc_amount": 1.2e-05,
+    "buy_price": 82488.5
+  },
+  {
+    "timestamp": "2025-04-06T18:12:46.749309",
+    "btc_amount": 1.2e-05,
+    "buy_price": 82448.3
+  },
+  {
+    "timestamp": "2025-04-06T18:13:47.848029",
+    "btc_amount": 1.2e-05,
+    "buy_price": 82455.5
+  },
+  {
+    "timestamp": "2025-04-06T18:14:48.672210",
+    "btc_amount": 1.2e-05,
+    "buy_price": 82454.7
+  }
+]
