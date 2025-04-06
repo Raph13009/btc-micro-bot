@@ -1,1 +1,1 @@
-worker: python3 kucoin_agent/btc_micro_trader.py
+worker: python3 btc_micro_trader.py
